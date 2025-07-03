@@ -1,0 +1,6 @@
+* TABLE OF CONTENTs :toc:
+- [[#ruby-backend][RUBY BACKEND]]
+
+* RUBY BACKEND
+Model Called =Product=
+| id | name   | image  | description | price |
